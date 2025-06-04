@@ -4,7 +4,7 @@
 
 -  👋 Hi, I’m @DSKode
 -  👀 I'm a beginner software developer who recently transitioned into tech out of pure curiosity — I wanted to understand how things work beneath the surface. With a background as an account assistant, I bring creativity and attention to detail into my coding journey.
--  🧠 I completed a Software Development Bootcamp with JustIT, where I learned and applied:
+-  🧠 I completed a Software Development Bootcamp, where I learned and applied:
 -   HTML, CSS, JavaScript and C#
 -   Unit testing using xUnit
 -   Built several small, hands-on projects
